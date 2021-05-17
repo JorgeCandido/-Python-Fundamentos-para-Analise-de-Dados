@@ -3,7 +3,7 @@
 ```sh
  Python Fundamentos para Análise de Dados - Data Science Academy
 
- Cronograma do curso: 
+Cronograma curso: 
 
 01 Introdução
 02 Variáveis, Tipos e Estruturas de Dados
