@@ -1,4 +1,6 @@
 #  Python-Fundamentos-para-Analise-de-Dados
+
+```sh
  Python Fundamentos para Análise de Dados - Data Science Academy
 
  Cronograma do curso: 
@@ -18,5 +20,6 @@
 13 Desenvolvimento Web
 14 Introdução ao Web Scraping
 15 Avaliação Final
+```
 
 #### fonte: https://www.datascienceacademy.com.br/course?courseid=python-fundamentos
